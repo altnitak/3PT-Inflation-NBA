@@ -27,7 +27,11 @@ Konkret operationalisiert durch folgende Teilfragen:
 
 - **Analyseebene:** Team × Saison  
 - **Zeitraum:** 1996–2026  
-- **Quelle:** Offizielle NBA-Team-Saisonstatistiken (web-gescraped)
+- **Quellen:**
+  - Historische NBA-Team-Saisondaten (1996–2024) aus einem offenen Datensatz von *OpenDataBay*  
+    (Datensatz zum Analysezeitpunkt öffentlich verfügbar, inzwischen entfernt)
+  - Aktuelle Saisondaten (2025/26) per Web Scraping von öffentlich zugänglichen NBA-Teamstatistiken
+- Der historische Datensatz liegt lokal vor und wurde unverändert als Ausgangspunkt der Analyse verwendet.
 - **Zentrale Variablen:**
   - Drei-Punkte-Würfe: 3PA, 3PM, 3P%
   - Weitere Effizienzmaße: FG%, FT%
@@ -47,7 +51,7 @@ Die Daten wurden umfassend bereinigt und vereinheitlicht:
 - Aggregation auf **Team-Saison-Ebene**
 
 Die ursprünglich per Web Scraping erhobenen Rohdaten wurden unmittelbar nach der Erhebung konsolidiert und bereinigt.  
-Daher liegen im Repository ausschließlich die bereinigten und aggregierten Datensätze vor.
+Daher liegen im Repository ausschließlich die bereinigten und aggregierten Datensätze vor; der historische OpenDataBay-Datensatz liegt unverändert im Ordner `data/raw/` vor.
 
 Das Ergebnis ist eine konsistente, analysereife Master-Tabelle.
 
