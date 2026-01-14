@@ -125,7 +125,7 @@ Ziel ist nicht Vorhersageoptimierung, sondern die Analyse relativer Feature-Bede
 ## 8. Projektstruktur
 
 ```text
-nba-3pt-inflation-limit/
+Rookies/
 ├── data/
 │   ├── raw/
 │   └── processed/
