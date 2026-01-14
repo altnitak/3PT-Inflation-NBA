@@ -96,4 +96,36 @@ Ziel ist die Unterscheidung zwischen einem reinen Volumen-Effekt und einer reale
 ---
 
 ## 7. Projektstruktur
+Die Projektstruktur beschreibt den Aufbau des GitHub-Repositories und legt fest, wo Daten, Code und Ergebnisse abgelegt werden.  
+Sie sorgt für Übersichtlichkeit, Nachvollziehbarkeit und Reproduzierbarkeit der Analyse.
+
+nba-3pt-inflation-limit/
+│
+├── data/
+│ ├── raw/ # Rohdaten (unverändert, Originalquelle)
+│ └── processed/ # Bereinigte und vereinheitlichte Master-Tabelle
+│
+├── notebooks/
+│ ├── 01_data_audit.ipynb # Datenüberblick, fehlende Werte, Plausibilitätschecks
+│ ├── 02_trend_analysis.ipynb # Deskriptive Analyse und Zeitreihen
+│ ├── 03_true_3pt.ipynb # Feature Engineering (True 3PT%)
+│ ├── 04_hypothesis_tests.ipynb # Statistische Hypothesentests
+│ └── 05_modeling.ipynb # Regressions- und ML-Modelle
+│
+├── reports/
+│ └── figures/ # Exportierte Grafiken für Präsentation und Bericht
+│
+├── slides/ # Finale Präsentation (PDF / PPTX)
+│
+├── requirements.txt # Benötigte Python-Bibliotheken
+├── .gitignore # Dateien, die nicht versioniert werden
+└── README.md # Projektbeschreibung und Anleitung
+
+**Erläuterung:**  
+- Rohdaten und bereinigte Daten sind klar getrennt.  
+- Die Analyse erfolgt schrittweise in nummerierten Notebooks.  
+- Ergebnisse und Präsentation sind vom Code getrennt.  
+- Dadurch ist das Projekt übersichtlich und reproduzierbar.
+
+
 
