@@ -30,7 +30,7 @@ Konkret operationalisiert durch folgende Teilfragen:
 - **Quellen:**
   - Historische NBA-Team-Saisondaten (1996–2024) aus einem offenen Datensatz von *OpenDataBay*  
     (Datensatz zum Analysezeitpunkt öffentlich verfügbar, inzwischen entfernt)
-  - Aktuelle Saisondaten (2025/26) per Web Scraping von öffentlich zugänglichen NBA-Teamstatistiken
+  - Aktuelle Saisondaten (2024/25-2025/26) per Web Scraping von öffentlich zugänglichen NBA-Teamstatistiken
 - Der historische Datensatz liegt lokal vor und wurde unverändert als Ausgangspunkt der Analyse verwendet.
 - **Zentrale Variablen:**
   - Drei-Punkte-Würfe: 3PA, 3PM, 3P%
