@@ -157,6 +157,7 @@ Rookies2526/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
+│   ├── 00_web_scraper.ipynb
 │   ├── 01_data_audit.ipynb
 │   ├── 02_trend_analysis.ipynb
 │   ├── 03_true_3pt.ipynb
