@@ -47,6 +47,7 @@ Die Daten wurden umfassend bereinigt und vereinheitlicht:
 - Standardisierung der Saisonformate (z. B. 2015/16)
 - Umgang mit fehlenden Werten in laufenden Saisons
 - Berechnung statistischer Kennzahlen auf Basis der Rohdaten
+- Rohdaten in den Codes von Team x Spiel auf Team x Saison aggregiert
   
 
 Die ursprünglich per Web Scraping erhobenen Rohdaten wurden unmittelbar nach der Erhebung zusammengeführt und bereinigt.  
