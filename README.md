@@ -64,7 +64,7 @@ Das Ergebnis, womit schließlich auch gearbeitet wurde ist eine konsistente, lü
 
 Neben der klassischen Drei-Punkte-Quote (3P%) wird eine zusätzliche Effizienzkennzahl verwendet:
 
-**True 3PT% (Bayes-ähnliche Adjustierung)**  
+**True 3PT% (Bayes-ähnliche Anpassung)**  
 - reduziert Verzerrungen durch kleine Stichproben
 - zieht extreme Quoten kontrolliert in Richtung Ligadurchschnitt
 - erlaubt robustere Vergleiche zwischen Teams und Saisons
