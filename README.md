@@ -2,12 +2,15 @@
 ## Wo ist das Limit?
 
 ## 1. Projektbeschreibung und Motivation
-Unsere Gruppe interessiert si
+Wir haben uns als Gruppe für die NBA und speziell den Drei-Punkte-Wurf entschieden, weil das Thema sowohl sportlich als auch analytisch sehr reizvoll ist. Viele von uns verfolgen die NBA schon länger, und der Dreier ist einer der wichtigsten Faktoren, der den modernen Basketball sichtbar verändert hat. Dadurch konnten wir ein Thema wählen, zu dem wir einen echten Bezug haben und bei dem Motivation und Interesse automatisch da sind.
+
 In den letzten Jahrzehnten hat sich Basketball und der gesamte Spielstil der NBA stark verändert.  
 Insbesondere der Drei-Punkte-Wurf hat seit Mitte der 2010er-Jahre massiv an Bedeutung gewonnen.  
 Während Teams kontinuierlich mehr Dreier pro Spiel werfen, stellt sich die Frage, ob dieses steigende Wurfvolumen langfristig effizient bleibt oder ob ein Sättigungspunkt erreicht wird.
+Gleichzeitig bietet der Drei-Punkte-Bereich einen klaren Mehrwert für eine datenbasierte Ausarbeitung: Man kann Trends über viele Jahre erkennen, Teams sinnvoll vergleichen und überprüfen, ob höhere Volumina tatsächlich mit Erfolg zusammenhängen. Insgesamt war es für uns die beste Kombination aus persönlichem Interesse, aktueller Relevanz im Sport und einer guten Grundlage für eine saubere statistische Analyse.
 
-Unser Projekt analysiert die Entwicklung des Drei-Punkte-Wurfs mit offiziellen Daten aller NBA-Teams seit 1996/97 bis heute. Von Datenaufbereitung über statistische Tests bis hin zu einer Machine-Learning Analyse.
+
+Unser Projekt analysiert die Entwicklung des Drei-Punkte-Wurfs mit offiziellen Daten aller NBA-Teams seit 1996/97 bis heute. Von Datenaufbereitung über Hypothesen Tests bis hin zu einer Machine-Learning Analyse.
 
 ---
 
