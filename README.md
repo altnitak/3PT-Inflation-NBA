@@ -1,5 +1,5 @@
-# 🏀 Drei-Punkte Inflation in the NBA  
-## Where is the limit?
+# 🏀 Drei-Punkte Wurf in der NBA  
+## Wo ist das Limit?
 
 ## 1. Projektbeschreibung
 In den letzten Jahrzehnten hat sich Basketball und der gesamte Spielstil der NBA stark verändert.  
