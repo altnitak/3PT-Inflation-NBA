@@ -1,7 +1,7 @@
 # 🏀 Drei-Punkte Wurf in der NBA  
 ## Wo ist das Limit?
 
-## 1. Projektbeschreibung
+## 1. Projektbeschreibung und Motivation
 In den letzten Jahrzehnten hat sich Basketball und der gesamte Spielstil der NBA stark verändert.  
 Insbesondere der Drei-Punkte-Wurf hat seit Mitte der 2010er-Jahre massiv an Bedeutung gewonnen.  
 Während Teams kontinuierlich mehr Dreier pro Spiel werfen, stellt sich die Frage, ob dieses steigende Wurfvolumen langfristig effizient bleibt oder ob ein Sättigungspunkt erreicht wird.
