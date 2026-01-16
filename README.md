@@ -72,7 +72,7 @@ Diese Kennzahl sorgt für einen einheitlichen Vergleich der bereinigten Daten ge
 
 ---
 
-## 6. Methodik
+## 6. Analyse
 
 ### 6.1 Deskriptive Analyse
 - Zeitreihenanalyse von 1996 bis 2026
